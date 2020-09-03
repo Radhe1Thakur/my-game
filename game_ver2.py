@@ -1,3 +1,6 @@
+"""
+code for my  game in python
+"""
 import random
 def guess_check(point):
 	#p = point
